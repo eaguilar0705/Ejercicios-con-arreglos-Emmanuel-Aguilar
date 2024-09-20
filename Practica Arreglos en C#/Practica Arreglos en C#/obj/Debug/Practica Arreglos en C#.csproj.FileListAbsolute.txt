@@ -1,0 +1,7 @@
+C:\Users\leoag\source\repos\Practica Arreglos en C#\Practica Arreglos en C#\obj\Debug\Practica Arreglos en C#.csproj.AssemblyReference.cache
+C:\Users\leoag\source\repos\Practica Arreglos en C#\Practica Arreglos en C#\obj\Debug\Practica Arreglos en C#.csproj.CoreCompileInputs.cache
+C:\Users\leoag\source\repos\Practica Arreglos en C#\Practica Arreglos en C#\bin\Debug\Practica Arreglos en C#.exe.config
+C:\Users\leoag\source\repos\Practica Arreglos en C#\Practica Arreglos en C#\bin\Debug\Practica Arreglos en C#.exe
+C:\Users\leoag\source\repos\Practica Arreglos en C#\Practica Arreglos en C#\bin\Debug\Practica Arreglos en C#.pdb
+C:\Users\leoag\source\repos\Practica Arreglos en C#\Practica Arreglos en C#\obj\Debug\Practica Arreglos en C#.exe
+C:\Users\leoag\source\repos\Practica Arreglos en C#\Practica Arreglos en C#\obj\Debug\Practica Arreglos en C#.pdb

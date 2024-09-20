@@ -1,0 +1,7 @@
+C:\Users\leoag\source\repos\Ejercicio con Arreglo 1\Ejercicio con Arreglo 1\bin\Debug\Ejercicio con Arreglo 1.exe.config
+C:\Users\leoag\source\repos\Ejercicio con Arreglo 1\Ejercicio con Arreglo 1\bin\Debug\Ejercicio con Arreglo 1.exe
+C:\Users\leoag\source\repos\Ejercicio con Arreglo 1\Ejercicio con Arreglo 1\bin\Debug\Ejercicio con Arreglo 1.pdb
+C:\Users\leoag\source\repos\Ejercicio con Arreglo 1\Ejercicio con Arreglo 1\obj\Debug\Ejercicio con Arreglo 1.csproj.AssemblyReference.cache
+C:\Users\leoag\source\repos\Ejercicio con Arreglo 1\Ejercicio con Arreglo 1\obj\Debug\Ejercicio con Arreglo 1.csproj.CoreCompileInputs.cache
+C:\Users\leoag\source\repos\Ejercicio con Arreglo 1\Ejercicio con Arreglo 1\obj\Debug\Ejercicio con Arreglo 1.exe
+C:\Users\leoag\source\repos\Ejercicio con Arreglo 1\Ejercicio con Arreglo 1\obj\Debug\Ejercicio con Arreglo 1.pdb
